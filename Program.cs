@@ -18,7 +18,8 @@ namespace TLAP_3_3
             Console.WriteLine($"Sorted = {Sorting(numbers)}");
             numbers = new int[] { 1, 2, 2, 3, 4, 5, 7, 8 };
             foreach (var number in numbers) Console.Write(number + " ");
-            Console.WriteLine($"Sorted = {Sorting(numbers)}");          
+            Console.WriteLine($"Sorted = {Sorting(numbers)}");
+            var x = "ya";
         }
 
         private static bool Sorting(int[] numbers)
