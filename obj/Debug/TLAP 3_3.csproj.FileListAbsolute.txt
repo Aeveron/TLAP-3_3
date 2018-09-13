@@ -1,0 +1,7 @@
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\bin\Debug\TLAP 3_3.exe.config
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\bin\Debug\TLAP 3_3.exe
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\bin\Debug\TLAP 3_3.pdb
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\obj\Debug\TLAP 3_3.csprojAssemblyReference.cache
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\obj\Debug\TLAP 3_3.csproj.CoreCompileInputs.cache
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\obj\Debug\TLAP 3_3.exe
+C:\Users\GET-Academy\Desktop\C#\TLAP 3_3\TLAP 3_3\obj\Debug\TLAP 3_3.pdb
